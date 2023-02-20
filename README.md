@@ -30,13 +30,46 @@
 </div>
 
 
-```json
-{
-   "languages": ["Python", "Java", "C++", "C#", "JS", "Perl"],
-   "backend": ["NodeJS", "Flask", "Django", "SpringBoot"],
-   "frontend": ["HTML/CSS", "REACT"],
-   "databases": ["CSV", "MYSQL", "JSON", "Firebase"],
-   "ai framework": ["Scikit-learn", "TensorFlow", "Keras",,,],
-   "game developement": ["Unity Engine"]
-}
-```
+## Technologies Stack
+
+<p align="left">
+  <img align="left" alt="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" width="60" height="60"/>
+
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
+
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="60"/>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
+
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
+
+</p>
+
+
+<h2>Programming Languages </h2>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt="c++" width="60" height="60"/>
+</p>
+
+## Github Stats
+
+<p align="left">
+  <img class="darkMode" alt="Umar Hanif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UmarHanifAdil1&show_icons=true&hide_border=true&locale=en&theme=tokyonight" width=50%/>
+  <img class="darkMode" alt="Umar Hanif's Top Languages" style="padding-left: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarHanifAdil1&langs_count=12&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width=35%/>
+</p>
+<br>
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=UmarHanifAdil1&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true"/>
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=UmarHanifAdil1&count_private=true&hide_border=true&bg_color=0d1117&theme=github" /> -->
+</p>
