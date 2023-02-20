@@ -62,6 +62,25 @@
   <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt="c++" width="60" height="60"/>
 </p>
 
+## Blogs
+<p align="left">
+<ul>
+  <li>
+    <a href="https://medium.com/@umarhanifadil/personal-two-way-communication-between-two-slack-apps-that-are-present-in-different-workspaces-9085b6308cc7">Personal Two-Way Communication between two slack apps that are present in different workspaces</a>
+  </li>
+    <li>
+    <a href="https://medium.com/@umarhanifadil/in-channel-communication-between-two-slack-apps-using-ngrok-6d40260c671">In Channel Communication between two Slack Apps using ngrok</a>
+  </li>
+    <li>
+    <a href="https://medium.com/@umarhanifadil/upgrade-to-a-free-student-github-pro-account-8f15f5e5eba2">Upgrade to a Free Student Github PRO Account.</a>
+  </li>
+    <li>
+    <a href="https://medium.com/@umarhanifadil/deploy-your-website-and-host-html-css-javascript-and-image-files-for-free-on-github-44ce833c087a">Deploy Your Website and Host HTML, CSS, JavaScript, and Image Files for Free on GitHub</a>
+  </li>
+  </ul>
+   
+</p>
+
 ## Github Stats
 
 <p align="left">
