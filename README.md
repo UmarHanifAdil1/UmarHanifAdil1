@@ -24,8 +24,8 @@
 ![](https://komarev.com/ghpvc/?username=UmarHanifAdil "Muhammad Umar Hanif")
 
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40UmarHanifAdil "Umar Hanif")](https://twitter.com/UmarHanofAdil)
-[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff "umarhanif01")](https://www.instagram.com/umarhanif01/)
+<!-- [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40UmarHanifAdil "Umar Hanif")](https://twitter.com/UmarHanofAdil)
+[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff "umarhanif01")](https://www.instagram.com/umarhanif01/) -->
 
 </div>
 
@@ -62,7 +62,7 @@
   <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt="c++" width="60" height="60"/>
 </p>
 
-## Blogs
+<!-- ## Blogs
 <p align="left">
 <ul>
   <li>
@@ -79,7 +79,7 @@
   </li>
   </ul>
    
-</p>
+</p> -->
 
 ## Github Stats
 
