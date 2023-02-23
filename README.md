@@ -53,7 +53,7 @@
 
 </p>
 
-
+<!-- 
 <h2>Programming Languages </h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
@@ -81,7 +81,7 @@
    
 </p> -->
 
-## Github Stats
+<!-- ## Github Stats
 
 <p align="left">
   <img class="darkMode" alt="Umar Hanif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UmarHanifAdil1&show_icons=true&hide_border=true&locale=en&theme=tokyonight" width=50%/>
@@ -92,3 +92,4 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=UmarHanifAdil1&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true"/>
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=UmarHanifAdil1&count_private=true&hide_border=true&bg_color=0d1117&theme=github" /> -->
 </p>
+ --> -->
