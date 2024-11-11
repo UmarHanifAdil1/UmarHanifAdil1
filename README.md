@@ -21,7 +21,7 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-black?color=14171A&style=flat&logo=kaggle)](https://www.kaggle.com/umarhanifadil)
 
 ![GitHub followers](https://img.shields.io/github/followers/UmarHanifAdil1?label=follow&style=social "Follow on Github")
-![](https://komarev.com/ghpvc/?username=UmarHanifAdil "Muhammad Umar Hanif")
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue)
 
 
 <!-- [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40UmarHanifAdil "Umar Hanif")](https://twitter.com/UmarHanofAdil)
